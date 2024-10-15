@@ -1,45 +1,91 @@
+# Importing the pygame module
 import pygame
-import requests
-import constant.asset_url
-import constant.init_constants
-import core
-import rembg
-import constant
+import sys 
+import Core.util.mouse
+import Controller.Map.map_controller
+import Core.config as config
+import Core.loader as loader
 
-from io import BytesIO
+from Model.Unit.Infantry.infantry import Infantry
+from Controller.Character.character_controller import CharacterManager
+from pygame.locals import *
 
-# Initialize Pygame
+# Initiate pygame
 pygame.init()
 
-#init size
-screen = pygame.display.set_mode(
-    [constant.init_constants.WIDTH,constant.init_constants.HEIGHT])
+# Create a display surface object of specific dimension
+window = pygame.display.set_mode((config.WINDOW_WIDTH, config.WINDOW_HEIGHT))
 
-pygame.display.set_caption("Chess game")
+# Create a new clock object to track time
+clock = pygame.time.Clock()
 
-# Load fonts
-# Set up clock and FPS
-timer = pygame.time.Clock()
-fps = 60
+# Boolean variable to run the game loop
+run = True
+###############################################
 
-abc = core.load_image(constant.asset_url.Asset_Soldier)
+character_manager = CharacterManager()
+map_manager = Controller.Map.map_controller.MapManager()
 
-# Main game loop
-running = True
-while running:
-    # Check for events (like closing the window)
+u = Infantry("infantry_roman",[300,300])
+character_manager.add_character(u)
+
+###############################################
+map_1 = [
+    [0,0,0,0,0,2,0,0],
+    [1,0,0,0,0,0,0,0],
+    [0,2,1,0,0,1,3,0],
+    [0,0,0,3,0,0,0,0],
+    [0,0,3,0,2,0,0,0],
+    [0,2,0,0,0,2,3,0],
+    [1,0,0,2,0,0,2,0],
+    [0,2,0,0,0,1,0,0],
+    [0,1,0,3,0,0,0,0],
+]
+
+# Load terrain tiles
+grass_1_tile = loader.load_image_frames('C:\\Work\\PyChess\\Asset\\Terrain\\grass-fall.png', None, 100, 100)[0]
+grass_2_tile = loader.load_image_frames('C:\\Work\\PyChess\\Asset\\Terrain\\grass-spring.png', None, 100, 100)[0]
+grass_3_tile = loader.load_image_frames('C:\\Work\\PyChess\\Asset\\Terrain\\grass-summer.png', None, 100, 100)[0]
+grass_4_tile = loader.load_image_frames('C:\\Work\\PyChess\\Asset\\Terrain\\grass-winter.png', None, 100, 100)[0]
+
+
+clicked_tiles=[None,None]
+
+# Infinite loop to run the game
+while run:
+    # fps
+    clock.tick(120)
+    # Process events (e.g., close window)
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            running = False
+            run = False
+        if event.type == MOUSEBUTTONDOWN:
+            mouse_pos = pygame.mouse.get_pos()
+            if event.button == 1:
+                clicked_tiles=[mouse_pos[0]//100, mouse_pos[1]//100]
+                character_manager.characters[0].move()
+            elif event.button == 3:
+                character_manager.characters[0].hold()
+                print("right")
 
-    # Fill the screen with a color (optional)
-    screen.fill((255, 255, 255))  # RGB: white background
-    abc.show()
-    # Update the display
-    pygame.display.flip()
+    # Clear the screen with black color
+    window.fill((0, 0, 0))
 
-    # Tick the clock to maintain the FPS
-    timer.tick(fps)
+    # Draw the map
+    map_manager.draw_map(window, map_1, {
+        0: grass_1_tile,
+        1: grass_2_tile,
+        2: grass_3_tile,
+        3: grass_4_tile
+    },clicked_tiles)
 
-# Quit Pygame when the loop ends
+    # Displaying the image in our game window
+    #window.blit(image, character_pos)
+    character_manager.draw_character(window)
+
+    # Updating the display surface
+    pygame.display.update()
+
+# Quit pygame
 pygame.quit()
+sys.exit()  # Ensure a clean exit

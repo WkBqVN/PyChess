@@ -1,14 +1,20 @@
-# Importing the pygame module
 import pygame
-import sys 
-import Core.util.mouse
-import Controller.Map.map_controller
+import sys
+from Controller.Element.Match.match_controller import Match
+from Controller.Element.Match.right_panel_controller import RightPanel
+from Core.screen import create_screen
+import Controller.Element.Map.map_controller as map_controller
 import Core.config as config
 import Core.loader as loader
 
+from Core.util.mouse import get_character_pos
+from Core.networking.connect import Connector
+
 from Model.Unit.Infantry.infantry import Infantry
-from Controller.Character.character_controller import CharacterManager
+
 from pygame.locals import *
+
+from Model.Unit.Infantry.infantry_constant import export_to_json
 
 # Initiate pygame
 pygame.init()
@@ -21,67 +27,38 @@ clock = pygame.time.Clock()
 
 # Boolean variable to run the game loop
 run = True
-###############################################
 
-character_manager = CharacterManager()
-map_manager = Controller.Map.map_controller.MapManager()
+# Initialize managers
+connector = Connector()
 
-u = Infantry("infantry_roman",[300,300])
-character_manager.add_character(u)
+# Initialize clicked tiles
+clicked_tiles = {"center": [400,400], "tile": {}}
+elapsed_time=0
+m = Match(None)
 
-###############################################
-map_1 = [
-    [0,0,0,0,0,2,0,0],
-    [1,0,0,0,0,0,0,0],
-    [0,2,1,0,0,1,3,0],
-    [0,0,0,3,0,0,0,0],
-    [0,0,3,0,2,0,0,0],
-    [0,2,0,0,0,2,3,0],
-    [1,0,0,2,0,0,2,0],
-    [0,2,0,0,0,1,0,0],
-    [0,1,0,3,0,0,0,0],
-]
-
-# Load terrain tiles
-grass_1_tile = loader.load_image_frames('C:\\Work\\PyChess\\Asset\\Terrain\\grass-fall.png', None, 100, 100)[0]
-grass_2_tile = loader.load_image_frames('C:\\Work\\PyChess\\Asset\\Terrain\\grass-spring.png', None, 100, 100)[0]
-grass_3_tile = loader.load_image_frames('C:\\Work\\PyChess\\Asset\\Terrain\\grass-summer.png', None, 100, 100)[0]
-grass_4_tile = loader.load_image_frames('C:\\Work\\PyChess\\Asset\\Terrain\\grass-winter.png', None, 100, 100)[0]
-
-
-clicked_tiles=[None,None]
+# abc = export_to_json("./")
 
 # Infinite loop to run the game
 while run:
-    # fps
-    clock.tick(120)
-    # Process events (e.g., close window)
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            run = False
-        if event.type == MOUSEBUTTONDOWN:
-            mouse_pos = pygame.mouse.get_pos()
-            if event.button == 1:
-                clicked_tiles=[mouse_pos[0]//100, mouse_pos[1]//100]
-                character_manager.characters[0].move()
-            elif event.button == 3:
-                character_manager.characters[0].hold()
-                print("right")
-
+    # Set frames per second
+    delta_time=clock.tick(120)
+    elapsed_time += delta_time
+    
     # Clear the screen with black color
     window.fill((0, 0, 0))
 
-    # Draw the map
-    map_manager.draw_map(window, map_1, {
-        0: grass_1_tile,
-        1: grass_2_tile,
-        2: grass_3_tile,
-        3: grass_4_tile
-    },clicked_tiles)
+    m.start_match(window)
 
-    # Displaying the image in our game window
-    #window.blit(image, character_pos)
-    character_manager.draw_character(window)
+    # Process events (e.g., close window)
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+                run = False
+                break
+        m.handleEvent(event)
+    if connector:
+        if elapsed_time >= 60000: # minutes cd
+            connector.send_match_data('{"hello":"world"}')
+            elapsed_time = 0
 
     # Updating the display surface
     pygame.display.update()

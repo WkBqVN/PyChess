@@ -22,3 +22,9 @@ def load_image_frames(file_path, num_frames=None, frame_width=None, frame_height
     except pygame.error as e:
         print(f"Không thể load hình ảnh: {e}")
         sys.exit()
+
+def load_hex_map_data(file_path):
+    with open(file_path, 'r') as file:
+        lines = file.readlines()  # Đọc tất cả các dòng
+        return lines
+        

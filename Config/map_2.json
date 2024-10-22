@@ -1,0 +1,4356 @@
+{
+    "map_2": [
+        {
+            "tile_id": 0,
+            "position": [
+                0,
+                0
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 1,
+            "position": [
+                0,
+                54
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 2,
+            "position": [
+                0,
+                108
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 3,
+            "position": [
+                0,
+                162
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 4,
+            "position": [
+                0,
+                216
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 5,
+            "position": [
+                0,
+                270
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 6,
+            "position": [
+                0,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 7,
+            "position": [
+                0,
+                378
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 8,
+            "position": [
+                0,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 9,
+            "position": [
+                0,
+                486
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 10,
+            "position": [
+                0,
+                540
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 11,
+            "position": [
+                0,
+                594
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 12,
+            "position": [
+                0,
+                648
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 13,
+            "position": [
+                0,
+                702
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 14,
+            "position": [
+                0,
+                756
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 15,
+            "position": [
+                0,
+                810
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 16,
+            "position": [
+                0,
+                864
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 17,
+            "position": [
+                50,
+                27
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 18,
+            "position": [
+                50,
+                81
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 19,
+            "position": [
+                50,
+                135
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 20,
+            "position": [
+                50,
+                189
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 21,
+            "position": [
+                50,
+                243
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 22,
+            "position": [
+                50,
+                297
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 23,
+            "position": [
+                50,
+                351
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 24,
+            "position": [
+                50,
+                405
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 25,
+            "position": [
+                50,
+                459
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 26,
+            "position": [
+                50,
+                513
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 27,
+            "position": [
+                50,
+                567
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 28,
+            "position": [
+                50,
+                621
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 29,
+            "position": [
+                50,
+                675
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 30,
+            "position": [
+                50,
+                729
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 31,
+            "position": [
+                50,
+                783
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 32,
+            "position": [
+                50,
+                837
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 33,
+            "position": [
+                50,
+                891
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 34,
+            "position": [
+                100,
+                0
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 35,
+            "position": [
+                100,
+                54
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 36,
+            "position": [
+                100,
+                108
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 37,
+            "position": [
+                100,
+                162
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 38,
+            "position": [
+                100,
+                216
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 39,
+            "position": [
+                100,
+                270
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 40,
+            "position": [
+                100,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 41,
+            "position": [
+                100,
+                378
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 42,
+            "position": [
+                100,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 43,
+            "position": [
+                100,
+                486
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 44,
+            "position": [
+                100,
+                540
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 45,
+            "position": [
+                100,
+                594
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 46,
+            "position": [
+                100,
+                648
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 47,
+            "position": [
+                100,
+                702
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 48,
+            "position": [
+                100,
+                756
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 49,
+            "position": [
+                100,
+                810
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 50,
+            "position": [
+                100,
+                864
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 51,
+            "position": [
+                150,
+                27
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 52,
+            "position": [
+                150,
+                81
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 53,
+            "position": [
+                150,
+                135
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 54,
+            "position": [
+                150,
+                189
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 55,
+            "position": [
+                150,
+                243
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 56,
+            "position": [
+                150,
+                297
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 57,
+            "position": [
+                150,
+                351
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 58,
+            "position": [
+                150,
+                405
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 59,
+            "position": [
+                150,
+                459
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 60,
+            "position": [
+                150,
+                513
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 61,
+            "position": [
+                150,
+                567
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 62,
+            "position": [
+                150,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 63,
+            "position": [
+                150,
+                675
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 64,
+            "position": [
+                150,
+                729
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 65,
+            "position": [
+                150,
+                783
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 66,
+            "position": [
+                150,
+                837
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 67,
+            "position": [
+                150,
+                891
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 68,
+            "position": [
+                200,
+                0
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 69,
+            "position": [
+                200,
+                54
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 70,
+            "position": [
+                200,
+                108
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 71,
+            "position": [
+                200,
+                162
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 72,
+            "position": [
+                200,
+                216
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 73,
+            "position": [
+                200,
+                270
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 74,
+            "position": [
+                200,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 75,
+            "position": [
+                200,
+                378
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 76,
+            "position": [
+                200,
+                432
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 77,
+            "position": [
+                200,
+                486
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 78,
+            "position": [
+                200,
+                540
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 79,
+            "position": [
+                200,
+                594
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 80,
+            "position": [
+                200,
+                648
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 81,
+            "position": [
+                200,
+                702
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 82,
+            "position": [
+                200,
+                756
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 83,
+            "position": [
+                200,
+                810
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 84,
+            "position": [
+                200,
+                864
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 85,
+            "position": [
+                250,
+                27
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 86,
+            "position": [
+                250,
+                81
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 87,
+            "position": [
+                250,
+                135
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 88,
+            "position": [
+                250,
+                189
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 89,
+            "position": [
+                250,
+                243
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 90,
+            "position": [
+                250,
+                297
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 91,
+            "position": [
+                250,
+                351
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 92,
+            "position": [
+                250,
+                405
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 93,
+            "position": [
+                250,
+                459
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 94,
+            "position": [
+                250,
+                513
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 95,
+            "position": [
+                250,
+                567
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 96,
+            "position": [
+                250,
+                621
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 97,
+            "position": [
+                250,
+                675
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 98,
+            "position": [
+                250,
+                729
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 99,
+            "position": [
+                250,
+                783
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 100,
+            "position": [
+                250,
+                837
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 101,
+            "position": [
+                250,
+                891
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 102,
+            "position": [
+                300,
+                0
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 103,
+            "position": [
+                300,
+                54
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 104,
+            "position": [
+                300,
+                108
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 105,
+            "position": [
+                300,
+                162
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 106,
+            "position": [
+                300,
+                216
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 107,
+            "position": [
+                300,
+                270
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 108,
+            "position": [
+                300,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 109,
+            "position": [
+                300,
+                378
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 110,
+            "position": [
+                300,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 111,
+            "position": [
+                300,
+                486
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 112,
+            "position": [
+                300,
+                540
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 113,
+            "position": [
+                300,
+                594
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 114,
+            "position": [
+                300,
+                648
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 115,
+            "position": [
+                300,
+                702
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 116,
+            "position": [
+                300,
+                756
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 117,
+            "position": [
+                300,
+                810
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 118,
+            "position": [
+                300,
+                864
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 119,
+            "position": [
+                350,
+                27
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 120,
+            "position": [
+                350,
+                81
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 121,
+            "position": [
+                350,
+                135
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 122,
+            "position": [
+                350,
+                189
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 123,
+            "position": [
+                350,
+                243
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 124,
+            "position": [
+                350,
+                297
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 125,
+            "position": [
+                350,
+                351
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 126,
+            "position": [
+                350,
+                405
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 127,
+            "position": [
+                350,
+                459
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 128,
+            "position": [
+                350,
+                513
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 129,
+            "position": [
+                350,
+                567
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 130,
+            "position": [
+                350,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 131,
+            "position": [
+                350,
+                675
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 132,
+            "position": [
+                350,
+                729
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 133,
+            "position": [
+                350,
+                783
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 134,
+            "position": [
+                350,
+                837
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 135,
+            "position": [
+                350,
+                891
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 136,
+            "position": [
+                400,
+                0
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 137,
+            "position": [
+                400,
+                54
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 138,
+            "position": [
+                400,
+                108
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 139,
+            "position": [
+                400,
+                162
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 140,
+            "position": [
+                400,
+                216
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 141,
+            "position": [
+                400,
+                270
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 142,
+            "position": [
+                400,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 143,
+            "position": [
+                400,
+                378
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 144,
+            "position": [
+                400,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 145,
+            "position": [
+                400,
+                486
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 146,
+            "position": [
+                400,
+                540
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 147,
+            "position": [
+                400,
+                594
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 148,
+            "position": [
+                400,
+                648
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 149,
+            "position": [
+                400,
+                702
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 150,
+            "position": [
+                400,
+                756
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 151,
+            "position": [
+                400,
+                810
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 152,
+            "position": [
+                400,
+                864
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 153,
+            "position": [
+                450,
+                27
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 154,
+            "position": [
+                450,
+                81
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 155,
+            "position": [
+                450,
+                135
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 156,
+            "position": [
+                450,
+                189
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 157,
+            "position": [
+                450,
+                243
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 158,
+            "position": [
+                450,
+                297
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 159,
+            "position": [
+                450,
+                351
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 160,
+            "position": [
+                450,
+                405
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 161,
+            "position": [
+                450,
+                459
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 162,
+            "position": [
+                450,
+                513
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 163,
+            "position": [
+                450,
+                567
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 164,
+            "position": [
+                450,
+                621
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 165,
+            "position": [
+                450,
+                675
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 166,
+            "position": [
+                450,
+                729
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 167,
+            "position": [
+                450,
+                783
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 168,
+            "position": [
+                450,
+                837
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 169,
+            "position": [
+                450,
+                891
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 170,
+            "position": [
+                500,
+                0
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 171,
+            "position": [
+                500,
+                54
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 172,
+            "position": [
+                500,
+                108
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 173,
+            "position": [
+                500,
+                162
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 174,
+            "position": [
+                500,
+                216
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 175,
+            "position": [
+                500,
+                270
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 176,
+            "position": [
+                500,
+                324
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 177,
+            "position": [
+                500,
+                378
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 178,
+            "position": [
+                500,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 179,
+            "position": [
+                500,
+                486
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 180,
+            "position": [
+                500,
+                540
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 181,
+            "position": [
+                500,
+                594
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 182,
+            "position": [
+                500,
+                648
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 183,
+            "position": [
+                500,
+                702
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 184,
+            "position": [
+                500,
+                756
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 185,
+            "position": [
+                500,
+                810
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 186,
+            "position": [
+                500,
+                864
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 187,
+            "position": [
+                550,
+                27
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 188,
+            "position": [
+                550,
+                81
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 189,
+            "position": [
+                550,
+                135
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 190,
+            "position": [
+                550,
+                189
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 191,
+            "position": [
+                550,
+                243
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 192,
+            "position": [
+                550,
+                297
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 193,
+            "position": [
+                550,
+                351
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 194,
+            "position": [
+                550,
+                405
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 195,
+            "position": [
+                550,
+                459
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 196,
+            "position": [
+                550,
+                513
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 197,
+            "position": [
+                550,
+                567
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 198,
+            "position": [
+                550,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 199,
+            "position": [
+                550,
+                675
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 200,
+            "position": [
+                550,
+                729
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 201,
+            "position": [
+                550,
+                783
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 202,
+            "position": [
+                550,
+                837
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 203,
+            "position": [
+                550,
+                891
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 204,
+            "position": [
+                600,
+                0
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 205,
+            "position": [
+                600,
+                54
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 206,
+            "position": [
+                600,
+                108
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 207,
+            "position": [
+                600,
+                162
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 208,
+            "position": [
+                600,
+                216
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 209,
+            "position": [
+                600,
+                270
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 210,
+            "position": [
+                600,
+                324
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 211,
+            "position": [
+                600,
+                378
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 212,
+            "position": [
+                600,
+                432
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 213,
+            "position": [
+                600,
+                486
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 214,
+            "position": [
+                600,
+                540
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 215,
+            "position": [
+                600,
+                594
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 216,
+            "position": [
+                600,
+                648
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 217,
+            "position": [
+                600,
+                702
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 218,
+            "position": [
+                600,
+                756
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 219,
+            "position": [
+                600,
+                810
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 220,
+            "position": [
+                600,
+                864
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 221,
+            "position": [
+                650,
+                27
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 222,
+            "position": [
+                650,
+                81
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 223,
+            "position": [
+                650,
+                135
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 224,
+            "position": [
+                650,
+                189
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 225,
+            "position": [
+                650,
+                243
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 226,
+            "position": [
+                650,
+                297
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 227,
+            "position": [
+                650,
+                351
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 228,
+            "position": [
+                650,
+                405
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 229,
+            "position": [
+                650,
+                459
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 230,
+            "position": [
+                650,
+                513
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 231,
+            "position": [
+                650,
+                567
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 232,
+            "position": [
+                650,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 233,
+            "position": [
+                650,
+                675
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 234,
+            "position": [
+                650,
+                729
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 235,
+            "position": [
+                650,
+                783
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 236,
+            "position": [
+                650,
+                837
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 237,
+            "position": [
+                650,
+                891
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 238,
+            "position": [
+                700,
+                0
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 239,
+            "position": [
+                700,
+                54
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 240,
+            "position": [
+                700,
+                108
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 241,
+            "position": [
+                700,
+                162
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 242,
+            "position": [
+                700,
+                216
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 243,
+            "position": [
+                700,
+                270
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 244,
+            "position": [
+                700,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 245,
+            "position": [
+                700,
+                378
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 246,
+            "position": [
+                700,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 247,
+            "position": [
+                700,
+                486
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 248,
+            "position": [
+                700,
+                540
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 249,
+            "position": [
+                700,
+                594
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 250,
+            "position": [
+                700,
+                648
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 251,
+            "position": [
+                700,
+                702
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 252,
+            "position": [
+                700,
+                756
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 253,
+            "position": [
+                700,
+                810
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 254,
+            "position": [
+                700,
+                864
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 255,
+            "position": [
+                750,
+                27
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 256,
+            "position": [
+                750,
+                81
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 257,
+            "position": [
+                750,
+                135
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 258,
+            "position": [
+                750,
+                189
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 259,
+            "position": [
+                750,
+                243
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 260,
+            "position": [
+                750,
+                297
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 261,
+            "position": [
+                750,
+                351
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 262,
+            "position": [
+                750,
+                405
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 263,
+            "position": [
+                750,
+                459
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 264,
+            "position": [
+                750,
+                513
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 265,
+            "position": [
+                750,
+                567
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 266,
+            "position": [
+                750,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 267,
+            "position": [
+                750,
+                675
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 268,
+            "position": [
+                750,
+                729
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 269,
+            "position": [
+                750,
+                783
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 270,
+            "position": [
+                750,
+                837
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 271,
+            "position": [
+                750,
+                891
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 272,
+            "position": [
+                800,
+                0
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 273,
+            "position": [
+                800,
+                54
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 274,
+            "position": [
+                800,
+                108
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 275,
+            "position": [
+                800,
+                162
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 276,
+            "position": [
+                800,
+                216
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 277,
+            "position": [
+                800,
+                270
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 278,
+            "position": [
+                800,
+                324
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 279,
+            "position": [
+                800,
+                378
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 280,
+            "position": [
+                800,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 281,
+            "position": [
+                800,
+                486
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 282,
+            "position": [
+                800,
+                540
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 283,
+            "position": [
+                800,
+                594
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 284,
+            "position": [
+                800,
+                648
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 285,
+            "position": [
+                800,
+                702
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 286,
+            "position": [
+                800,
+                756
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 287,
+            "position": [
+                800,
+                810
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 288,
+            "position": [
+                800,
+                864
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 289,
+            "position": [
+                850,
+                27
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 290,
+            "position": [
+                850,
+                81
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 291,
+            "position": [
+                850,
+                135
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 292,
+            "position": [
+                850,
+                189
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 293,
+            "position": [
+                850,
+                243
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 294,
+            "position": [
+                850,
+                297
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 295,
+            "position": [
+                850,
+                351
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 296,
+            "position": [
+                850,
+                405
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 297,
+            "position": [
+                850,
+                459
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 298,
+            "position": [
+                850,
+                513
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 299,
+            "position": [
+                850,
+                567
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 300,
+            "position": [
+                850,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 301,
+            "position": [
+                850,
+                675
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 302,
+            "position": [
+                850,
+                729
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 303,
+            "position": [
+                850,
+                783
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 304,
+            "position": [
+                850,
+                837
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 305,
+            "position": [
+                850,
+                891
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 306,
+            "position": [
+                900,
+                0
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 307,
+            "position": [
+                900,
+                54
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 308,
+            "position": [
+                900,
+                108
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 309,
+            "position": [
+                900,
+                162
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 310,
+            "position": [
+                900,
+                216
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 311,
+            "position": [
+                900,
+                270
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 312,
+            "position": [
+                900,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 313,
+            "position": [
+                900,
+                378
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 314,
+            "position": [
+                900,
+                432
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 315,
+            "position": [
+                900,
+                486
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 316,
+            "position": [
+                900,
+                540
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 317,
+            "position": [
+                900,
+                594
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 318,
+            "position": [
+                900,
+                648
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 319,
+            "position": [
+                900,
+                702
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 320,
+            "position": [
+                900,
+                756
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 321,
+            "position": [
+                900,
+                810
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 322,
+            "position": [
+                900,
+                864
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 323,
+            "position": [
+                950,
+                27
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 324,
+            "position": [
+                950,
+                81
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 325,
+            "position": [
+                950,
+                135
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 326,
+            "position": [
+                950,
+                189
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 327,
+            "position": [
+                950,
+                243
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 328,
+            "position": [
+                950,
+                297
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 329,
+            "position": [
+                950,
+                351
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 330,
+            "position": [
+                950,
+                405
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 331,
+            "position": [
+                950,
+                459
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 332,
+            "position": [
+                950,
+                513
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 333,
+            "position": [
+                950,
+                567
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 334,
+            "position": [
+                950,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 335,
+            "position": [
+                950,
+                675
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 336,
+            "position": [
+                950,
+                729
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 337,
+            "position": [
+                950,
+                783
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 338,
+            "position": [
+                950,
+                837
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 339,
+            "position": [
+                950,
+                891
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 340,
+            "position": [
+                1000,
+                0
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 341,
+            "position": [
+                1000,
+                54
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 342,
+            "position": [
+                1000,
+                108
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 343,
+            "position": [
+                1000,
+                162
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 344,
+            "position": [
+                1000,
+                216
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 345,
+            "position": [
+                1000,
+                270
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 346,
+            "position": [
+                1000,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 347,
+            "position": [
+                1000,
+                378
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 348,
+            "position": [
+                1000,
+                432
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 349,
+            "position": [
+                1000,
+                486
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 350,
+            "position": [
+                1000,
+                540
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 351,
+            "position": [
+                1000,
+                594
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 352,
+            "position": [
+                1000,
+                648
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 353,
+            "position": [
+                1000,
+                702
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 354,
+            "position": [
+                1000,
+                756
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 355,
+            "position": [
+                1000,
+                810
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 356,
+            "position": [
+                1000,
+                864
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 357,
+            "position": [
+                1050,
+                27
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 358,
+            "position": [
+                1050,
+                81
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 359,
+            "position": [
+                1050,
+                135
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 360,
+            "position": [
+                1050,
+                189
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 361,
+            "position": [
+                1050,
+                243
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 362,
+            "position": [
+                1050,
+                297
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 363,
+            "position": [
+                1050,
+                351
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 364,
+            "position": [
+                1050,
+                405
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 365,
+            "position": [
+                1050,
+                459
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 366,
+            "position": [
+                1050,
+                513
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 367,
+            "position": [
+                1050,
+                567
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 368,
+            "position": [
+                1050,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 369,
+            "position": [
+                1050,
+                675
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 370,
+            "position": [
+                1050,
+                729
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 371,
+            "position": [
+                1050,
+                783
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 372,
+            "position": [
+                1050,
+                837
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 373,
+            "position": [
+                1050,
+                891
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 374,
+            "position": [
+                1100,
+                0
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 375,
+            "position": [
+                1100,
+                54
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 376,
+            "position": [
+                1100,
+                108
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 377,
+            "position": [
+                1100,
+                162
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 378,
+            "position": [
+                1100,
+                216
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 379,
+            "position": [
+                1100,
+                270
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 380,
+            "position": [
+                1100,
+                324
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 381,
+            "position": [
+                1100,
+                378
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 382,
+            "position": [
+                1100,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 383,
+            "position": [
+                1100,
+                486
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 384,
+            "position": [
+                1100,
+                540
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 385,
+            "position": [
+                1100,
+                594
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 386,
+            "position": [
+                1100,
+                648
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 387,
+            "position": [
+                1100,
+                702
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 388,
+            "position": [
+                1100,
+                756
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 389,
+            "position": [
+                1100,
+                810
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 390,
+            "position": [
+                1100,
+                864
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 391,
+            "position": [
+                1150,
+                27
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 392,
+            "position": [
+                1150,
+                81
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 393,
+            "position": [
+                1150,
+                135
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 394,
+            "position": [
+                1150,
+                189
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 395,
+            "position": [
+                1150,
+                243
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 396,
+            "position": [
+                1150,
+                297
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 397,
+            "position": [
+                1150,
+                351
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 398,
+            "position": [
+                1150,
+                405
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 399,
+            "position": [
+                1150,
+                459
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 400,
+            "position": [
+                1150,
+                513
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 401,
+            "position": [
+                1150,
+                567
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 402,
+            "position": [
+                1150,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 403,
+            "position": [
+                1150,
+                675
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 404,
+            "position": [
+                1150,
+                729
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 405,
+            "position": [
+                1150,
+                783
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 406,
+            "position": [
+                1150,
+                837
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 407,
+            "position": [
+                1150,
+                891
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 408,
+            "position": [
+                1200,
+                0
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 409,
+            "position": [
+                1200,
+                54
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 410,
+            "position": [
+                1200,
+                108
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 411,
+            "position": [
+                1200,
+                162
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 412,
+            "position": [
+                1200,
+                216
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 413,
+            "position": [
+                1200,
+                270
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 414,
+            "position": [
+                1200,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 415,
+            "position": [
+                1200,
+                378
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 416,
+            "position": [
+                1200,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 417,
+            "position": [
+                1200,
+                486
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 418,
+            "position": [
+                1200,
+                540
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 419,
+            "position": [
+                1200,
+                594
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 420,
+            "position": [
+                1200,
+                648
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 421,
+            "position": [
+                1200,
+                702
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 422,
+            "position": [
+                1200,
+                756
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 423,
+            "position": [
+                1200,
+                810
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 424,
+            "position": [
+                1200,
+                864
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 425,
+            "position": [
+                1250,
+                27
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 426,
+            "position": [
+                1250,
+                81
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 427,
+            "position": [
+                1250,
+                135
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 428,
+            "position": [
+                1250,
+                189
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 429,
+            "position": [
+                1250,
+                243
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 430,
+            "position": [
+                1250,
+                297
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 431,
+            "position": [
+                1250,
+                351
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 432,
+            "position": [
+                1250,
+                405
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 433,
+            "position": [
+                1250,
+                459
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 434,
+            "position": [
+                1250,
+                513
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 435,
+            "position": [
+                1250,
+                567
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 436,
+            "position": [
+                1250,
+                621
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 437,
+            "position": [
+                1250,
+                675
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 438,
+            "position": [
+                1250,
+                729
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 439,
+            "position": [
+                1250,
+                783
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 440,
+            "position": [
+                1250,
+                837
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 441,
+            "position": [
+                1250,
+                891
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 442,
+            "position": [
+                1300,
+                0
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 443,
+            "position": [
+                1300,
+                54
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 444,
+            "position": [
+                1300,
+                108
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 445,
+            "position": [
+                1300,
+                162
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 446,
+            "position": [
+                1300,
+                216
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 447,
+            "position": [
+                1300,
+                270
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 448,
+            "position": [
+                1300,
+                324
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 449,
+            "position": [
+                1300,
+                378
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 450,
+            "position": [
+                1300,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 451,
+            "position": [
+                1300,
+                486
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 452,
+            "position": [
+                1300,
+                540
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 453,
+            "position": [
+                1300,
+                594
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 454,
+            "position": [
+                1300,
+                648
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 455,
+            "position": [
+                1300,
+                702
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 456,
+            "position": [
+                1300,
+                756
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 457,
+            "position": [
+                1300,
+                810
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 458,
+            "position": [
+                1300,
+                864
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 459,
+            "position": [
+                1350,
+                27
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 460,
+            "position": [
+                1350,
+                81
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 461,
+            "position": [
+                1350,
+                135
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 462,
+            "position": [
+                1350,
+                189
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 463,
+            "position": [
+                1350,
+                243
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 464,
+            "position": [
+                1350,
+                297
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 465,
+            "position": [
+                1350,
+                351
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 466,
+            "position": [
+                1350,
+                405
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 467,
+            "position": [
+                1350,
+                459
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 468,
+            "position": [
+                1350,
+                513
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 469,
+            "position": [
+                1350,
+                567
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 470,
+            "position": [
+                1350,
+                621
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 471,
+            "position": [
+                1350,
+                675
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 472,
+            "position": [
+                1350,
+                729
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 473,
+            "position": [
+                1350,
+                783
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 474,
+            "position": [
+                1350,
+                837
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 475,
+            "position": [
+                1350,
+                891
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 476,
+            "position": [
+                1400,
+                0
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 477,
+            "position": [
+                1400,
+                54
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 478,
+            "position": [
+                1400,
+                108
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 479,
+            "position": [
+                1400,
+                162
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 480,
+            "position": [
+                1400,
+                216
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 481,
+            "position": [
+                1400,
+                270
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 482,
+            "position": [
+                1400,
+                324
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 483,
+            "position": [
+                1400,
+                378
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 484,
+            "position": [
+                1400,
+                432
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 485,
+            "position": [
+                1400,
+                486
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 486,
+            "position": [
+                1400,
+                540
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 487,
+            "position": [
+                1400,
+                594
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 488,
+            "position": [
+                1400,
+                648
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 489,
+            "position": [
+                1400,
+                702
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 490,
+            "position": [
+                1400,
+                756
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 491,
+            "position": [
+                1400,
+                810
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 492,
+            "position": [
+                1400,
+                864
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 493,
+            "position": [
+                1450,
+                27
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 494,
+            "position": [
+                1450,
+                81
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 495,
+            "position": [
+                1450,
+                135
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 496,
+            "position": [
+                1450,
+                189
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 497,
+            "position": [
+                1450,
+                243
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 498,
+            "position": [
+                1450,
+                297
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 499,
+            "position": [
+                1450,
+                351
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 500,
+            "position": [
+                1450,
+                405
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 501,
+            "position": [
+                1450,
+                459
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 502,
+            "position": [
+                1450,
+                513
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 503,
+            "position": [
+                1450,
+                567
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 504,
+            "position": [
+                1450,
+                621
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 505,
+            "position": [
+                1450,
+                675
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 506,
+            "position": [
+                1450,
+                729
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 507,
+            "position": [
+                1450,
+                783
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 508,
+            "position": [
+                1450,
+                837
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 509,
+            "position": [
+                1450,
+                891
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 510,
+            "position": [
+                1500,
+                0
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 511,
+            "position": [
+                1500,
+                54
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 512,
+            "position": [
+                1500,
+                108
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 513,
+            "position": [
+                1500,
+                162
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 514,
+            "position": [
+                1500,
+                216
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 515,
+            "position": [
+                1500,
+                270
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 516,
+            "position": [
+                1500,
+                324
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 517,
+            "position": [
+                1500,
+                378
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 518,
+            "position": [
+                1500,
+                432
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 519,
+            "position": [
+                1500,
+                486
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 520,
+            "position": [
+                1500,
+                540
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 521,
+            "position": [
+                1500,
+                594
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 522,
+            "position": [
+                1500,
+                648
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 523,
+            "position": [
+                1500,
+                702
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 524,
+            "position": [
+                1500,
+                756
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 525,
+            "position": [
+                1500,
+                810
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 526,
+            "position": [
+                1500,
+                864
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 527,
+            "position": [
+                1550,
+                27
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 528,
+            "position": [
+                1550,
+                81
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 529,
+            "position": [
+                1550,
+                135
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 530,
+            "position": [
+                1550,
+                189
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 531,
+            "position": [
+                1550,
+                243
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 532,
+            "position": [
+                1550,
+                297
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 533,
+            "position": [
+                1550,
+                351
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 534,
+            "position": [
+                1550,
+                405
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 535,
+            "position": [
+                1550,
+                459
+            ],
+            "tile": "grass_tile"
+        },
+        {
+            "tile_id": 536,
+            "position": [
+                1550,
+                513
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 537,
+            "position": [
+                1550,
+                567
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 538,
+            "position": [
+                1550,
+                621
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 539,
+            "position": [
+                1550,
+                675
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 540,
+            "position": [
+                1550,
+                729
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 541,
+            "position": [
+                1550,
+                783
+            ],
+            "tile": "sand_tile"
+        },
+        {
+            "tile_id": 542,
+            "position": [
+                1550,
+                837
+            ],
+            "tile": "snow_tile"
+        },
+        {
+            "tile_id": 543,
+            "position": [
+                1550,
+                891
+            ],
+            "tile": "snow_tile"
+        }
+    ]
+}

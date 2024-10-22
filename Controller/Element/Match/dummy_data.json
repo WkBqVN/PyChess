@@ -1,0 +1,50 @@
+{
+    "Player1": {
+        "abc": [
+            {
+                "map": 1,
+                "unit": []
+            }
+        ]
+    },
+    "Player2": {
+            "abc": [
+                {
+                    "map": 1,
+                    "unit": []
+                }
+            ]
+    },
+    "Player3": {
+            "abc": [
+                {
+                    "map": 1,
+                    "unit": []
+                }
+            ]
+        },
+    "Player4": {
+            "abc": [
+                {
+                    "map": 1,
+                    "unit": []
+                }
+            ]
+    },
+    "Player5": {
+                "abc": [
+                    {
+                        "map": 1,
+                        "unit": []
+                    }
+                ]
+            },
+    "Player6": {
+            "abc": [
+                {
+                    "map": 1,
+                    "unit": []
+                }
+            ]
+    }
+}

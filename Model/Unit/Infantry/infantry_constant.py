@@ -1,5 +1,8 @@
 #list of infantry base on type
 
+import json
+
+
 infantry_roman = {
     "attribute":{
         "hp": 10,
@@ -11,31 +14,31 @@ infantry_roman = {
     },
     "asset":{
         "asset_attack": {
-            "path": ".\\Asset\\Unit\\infantry_roman\\infantry_roman_attack_01.png",
+            "path": ".\\Asset\\Unit\\characters\\infantry_roman\\infantry_roman_attack_01.png",
             "num_of_frames": 6,
             "width":100,
             "height":100
         },
         "asset_movement":{
-            "path": ".\\Asset\\Unit\\infantry_roman\\infantry_roman_movement.png",
+            "path": ".\\Asset\\Unit\\characters\\infantry_roman\\infantry_roman_movement.png",
             "num_of_frames": 8,
             "width":100,
             "height":100
         },
         "asset_hold":{
-            "path": ".\\Asset\\Unit\\infantry_roman\\infantry_roman_hold.png",
+            "path": ".\\Asset\\Unit\\characters\\infantry_roman\\infantry_roman_hold.png",
             "num_of_frames": 4,
             "width":100,
             "height":100
         },
         "asset_death":{
-            "path": ".\\Asset\\Unit\\infantry_roman\\infantry_roman_death.png",
+            "path": ".\\Asset\\Unit\\characters\\infantry_roman\\infantry_roman_death.png",
             "num_of_frames": 4,
             "width":100,
             "height":100
         },
         "asset_idle":{
-            "path": ".\\Asset\\Unit\\infantry_roman\\infantry_roman_idle.png",
+            "path": ".\\Asset\\Unit\\characters\\infantry_roman\\infantry_roman_idle.png",
             "num_of_frames": 6,
             "width":100,
             "height":100
@@ -54,7 +57,7 @@ infantry_chinese = {
     },
     "asset":{
             "asset_attack": {
-                    "path":"C:\\Work\\PyChess\\Asset\\Unit\\infantry_roman\\infantry_roman_attack_01.png",
+                    "path":"C:\\Work\\PyChess\\Asset\\Unit\\characters\\infantry_roman\\infantry_roman_attack_01.png",
                     "num_of_frames": 6,
                     "width":100,
                     "height":100
@@ -81,3 +84,9 @@ def get_infantry_by_name(infantry_name):
     if infantry_name == "infantry_chinese":
         return infantry_chinese
     return infantry_basic
+
+def export_to_json():
+    return json.dumps({
+        "infantry_roman": infantry_roman,
+        "infantry_chinese": infantry_chinese
+    })

@@ -18,6 +18,7 @@ class UIManager:
         for player in match_data.keys():                              # get each player data
             self.draw_units(window,player.player_match_data[player].list_units)
             if map_name == "map_1":
+                #self.map_controller.draw_match_map(window,match_data)
                 self.draw_map(window,map_controller.list_map["map"]["map_1"])
             elif map_name == "map_2":
                 self.draw_map(window,map_controller.list_map["map"]["map_2"])
